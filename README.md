@@ -34,6 +34,10 @@ sources rather than the companies' own sites.
   single-company teardown. Emerson is cited as the benchmark across all four
   engines, but on third-party pages, because its own catalogue carries no
   machine-readable product schema. The gap is structural, not reputational.
+- **[Bürkert (fluid control systems)](burkert-ai-visibility-audit.md)** — a
+  single-company teardown. Crawlers are welcome and AI cites Bürkert in its niche,
+  but a product-family page hides its specifications behind 35 PDF datasheets with
+  no product schema, so the data an engine needs is the data it cannot read.
 - **[Flow-control sector landscape](flow-control-sector-ai-readiness.md)** — a
   structural scan of 17 valve and flow-control makers and distributors, with a
   citation overlay. A third of the sector is unreachable to an AI crawler; one
