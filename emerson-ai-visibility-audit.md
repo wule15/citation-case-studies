@@ -156,33 +156,6 @@ missing a markup layer.
 
 ---
 
-## Outbound opener (draft)
-
-Short, specific, and built on one verified finding. Not sent, provided as the
-sales artifact that follows the audit.
-
-> Subject: Fisher valves are readable by engineers, not by AI
->
-> Hi [name],
->
-> Quick observation from an AI-visibility scan of emerson.com. Good news first:
-> across ChatGPT, Perplexity, Kimi and Gemini, Fisher is named as the benchmark
-> control-valve brand. The catch is where that comes from. The engines are
-> quoting market reports and directories, not emerson.com, because your catalogue
-> pages carry no JSON-LD product schema. So when a tool tries to pull an
-> actuator's pressure class or size, it finds prose it cannot parse into facts,
-> and it cites someone else's page about you instead of yours.
->
-> Competitors who add that markup first become the ones these tools quote from
-> directly. It is a markup change on data you already publish, not a content
-> project.
->
-> If it is useful, I can show the exact pages and the schema they are missing.
->
-> [signature]
-
----
-
 ## What is not in this audit
 
 - **Citation test is a snapshot, not a tracking study.** Test 2 was three queries

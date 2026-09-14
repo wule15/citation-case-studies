@@ -123,29 +123,6 @@ sitting on top of the expensive half, brand and authority, that is already there
 
 ---
 
-## Outbound opener (draft)
-
-> Subject: Your Bürkert datasheets are invisible to AI, and that is fixable
->
-> Hi [name],
->
-> Quick note from an AI-visibility scan of burkert.com. The good part: your site
-> is fully open to AI crawlers, and ChatGPT, Perplexity, Kimi and Gemini already
-> name Bürkert for fluid control. The gap is the product layer. One product-family
-> page I looked at links 35 datasheet PDFs and carries no product schema, so when
-> an AI tool tries to pull a valve's pressure or Kv, it finds PDF links it cannot
-> read, and answers from a directory instead of from you.
->
-> The specs already exist. Surfacing them as HTML with Product markup is a
-> template change, not a content project, and it is what makes an engine quote
-> your page rather than someone else's.
->
-> Happy to show the exact pages if useful.
->
-> [signature]
-
----
-
 ## What is not in this audit
 
 - **Two pages, not the whole catalogue.** The products landing and one
